@@ -18,7 +18,7 @@ Additional Pre-requisites for developement mode deployment:
 
 ### Config Update  
 
-- Update config related to chain id , rpc url in index.js file located at `wallet_connect_sample/dapp/src/config/index.js`
+- Update config related to chain id , rpc url in index.js file located at `web3modal-walletconnect-sample/dapp/src/config/index.js`
 
 - Update server port in package.json file. 
 
